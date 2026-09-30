@@ -1,0 +1,6 @@
+{
+  "name": "Aurlex Studio",
+  "description": "AI Production Operating System for researched, consistent, animated video production and direction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
